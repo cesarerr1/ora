@@ -1,0 +1,18 @@
+# language: es
+@login
+Característica: Iniciar sesión
+
+  Antecedentes:
+    Dado que estoy en la página "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+
+  @loginValido
+  Escenario: Login válido
+    Cuando ingreso el usuario "Admin" y la contraseña "admin123"
+    Y hago clic en login
+    Entonces se muestra la página "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"
+    Y hago clic en Admin
+    Y hago clic en Leave
+    Y hago clic en Recruitment
+    Y hago clic en My Info
+    Y hago clic en Job
+

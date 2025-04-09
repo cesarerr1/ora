@@ -1,0 +1,15 @@
+{   
+    "platformName": "Android",
+    "deviceName": "ZY2275RWC2",  
+    "appActivity" : "prod.horus.podemos",
+    "automationName": "UiAutomator2",
+    "noReset": true,
+    "autoGrantPerissions": true,
+    "platformVersion": "10",
+    "disableWindowAnimation" : true,
+    "gpsEnabled" : true,
+    "automáticamente": true,
+    "tel" : "7293886370",
+    "showChromedriverLog": false
+  }
+  

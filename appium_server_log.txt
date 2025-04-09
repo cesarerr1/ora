@@ -1,0 +1,4 @@
+------Iniciando Appium server ------
+Iniciando Appium en segundo plano en 127.0.0.1:4723 con CORS habilitado...
+nohup: fallo al ejecutar la orden 'appium': No existe el archivo o el directorio
+Error: Appium no se está ejecutando.
